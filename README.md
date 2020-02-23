@@ -6,6 +6,7 @@ design mode: chain-of-responsibility, implements in rust.
 running test command: cargo test -- --nocapture
 
 running test result:
+```
 主任:dd,审批采购数量:10001，金额:55000元，采购目的:项目需要
 副董事长:vv,审批采购数量:10001，金额:55000元，采购目的:项目需要
 主任:dd,审批采购数量:10002，金额:200000元，采购目的:饭堂开销需要
@@ -15,3 +16,4 @@ running test result:
 副董事长:vv,审批采购数量:10003，金额:2000000元，采购目的:买办公室
 董事长:pp,审批采购数量:10003，金额:2000000元，采购目的:买办公室
 董事会:cc,审批采购数量:10003，金额:2000000元，采购目的:买办公室
+```
